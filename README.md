@@ -19,7 +19,7 @@ the data contains 51291 rows and 21 columns
 
 5. The dataset is now clean and ready for analysis.
 ## data analysis :
-                                              Dashboard1(revenue analyst)
+                                              Dashboard1 (revenue analyst)
                       
 <img src="D1.png" width="900">
 Revenue Analysis Insights
@@ -61,7 +61,7 @@ Business Recommendations
 - Maintain efficient Standard Class shipping services while exploring opportunities to improve the adoption of premium shipping options.
 - Analyze the success factors behind the highest-performing countries and regions to replicate best practices in lower-performing markets.
 - Allocate marketing and operational resources toward high-revenue regions while identifying opportunities for growth in underperforming areas.
-                                      Dashboard2(Products & cutomers analyst)
+                                      Dashboard2 (Products & cutomers analyst)
                       
 <img src="D1.png" width="900">
 Product & Customer Analysis Insights
@@ -125,5 +125,60 @@ Business Recommendations
 - Develop customer loyalty programs targeting high-value customers to maximize customer lifetime value.
 - Focus marketing campaigns on the most profitable sub-categories, particularly Copiers, Phones, and Bookcases.
 - Balance inventory planning by considering both sales volume and profit margins, rather than relying on quantity sold alone.
+                                  Dashboard3 (loss analyst)
+                      
+<img src="D1.png" width="900">
+Loss Analysis Insights
 
+Loss Overview
+
+- The supermarket recorded a total loss of $920K, highlighting the importance of identifying the key drivers behind negative profitability.
+- Understanding where losses occur enables the business to implement targeted strategies to improve overall financial performance.
+
+Loss Distribution by Customer Segment
+
+- The Consumer segment accounted for the largest share of total losses at 52%.
+- The Corporate segment represented 30% of total losses.
+- The Home Office segment contributed the remaining 18%.
+- Although the Consumer segment generates the highest sales, it also represents the largest source of losses, suggesting that pricing, discount strategies, or product mix should be reviewed.
+
+Impact of Discounts on Losses
+
+- The analysis shows a clear relationship between higher discount levels and increased losses.
+- Transactions with larger discounts tend to generate lower profitability and, in many cases, negative profit margins.
+- This indicates that excessive discounting may significantly reduce overall business profitability.
+
+Loss Analysis by Region
+
+- The Central region recorded the highest loss at approximately $202K.
+- Other regions also experienced losses, including South, EMEA, Southeast Asia, Africa, Oceania, North, East, Central Asia, and North Asia, as illustrated in the dashboard.
+- Comparing regional performance helps identify areas that require operational improvements and better pricing strategies.
+
+Monthly Loss Trends
+
+- Sales and profit losses fluctuated throughout the year, with some months experiencing noticeably higher losses than others.
+- Monitoring monthly trends enables the business to identify seasonal patterns and evaluate the effectiveness of pricing, promotions, and inventory management strategies.
+
+Loss Analysis by Sub-Category
+
+- The highest losses were recorded in the following product sub-categories:
+  - Tables (-$144K)
+  - Bookcases (-$101K)
+  - Phones (-$96K)
+  - Chairs (-$96K)
+  - Machines (-$79K)
+  - Storage (-$76K)
+  - Copiers (-$72K)
+  - Appliances (-$44K)
+  - Binders (-$53K)
+  - Supplies (-$40K)
+- These sub-categories should be reviewed to determine whether losses are driven by pricing, discount policies, procurement costs, or inventory management.
+
+Business Recommendations
+
+- Review the current discount strategy to reduce unnecessary profit erosion, particularly for high-discount transactions.
+- Prioritize corrective actions in the Central region, where losses are the highest.
+- Conduct a detailed profitability analysis of loss-making product categories, especially Tables, Bookcases, Phones, and Chairs.
+- Monitor the profitability of the Consumer segment and optimize pricing or promotional strategies without negatively impacting sales volume.
+- Establish regular profitability monitoring to identify loss trends early and support proactive business decisions.
 
