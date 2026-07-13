@@ -63,7 +63,7 @@ Business Recommendations
 - Allocate marketing and operational resources toward high-revenue regions while identifying opportunities for growth in underperforming areas.
                                       Dashboard2(Products & cutomers analyst)
                       
-<img src="D1.png" width="900">
+<img src="D2.png" width="900">
 Product & Customer Analysis Insights
 
 Customer and Order Overview
@@ -127,7 +127,7 @@ Business Recommendations
 - Balance inventory planning by considering both sales volume and profit margins, rather than relying on quantity sold alone.
                                   Dashboard3(loss analyst)
                       
-<img src="D1.png" width="900">
+<img src="D3.png" width="900">
 Loss Analysis Insights
 
 Loss Overview
